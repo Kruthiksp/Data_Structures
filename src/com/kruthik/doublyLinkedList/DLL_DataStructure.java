@@ -1,4 +1,4 @@
-package com.kruthik.DoublyLinkedList;
+package com.kruthik.doublyLinkedList;
 
 public class DLL_DataStructure {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.kruthik.LinkedLists;
+package com.kruthik.linkedLists;
 
 public class InsertAtIndex {
     public static void main(String[] args) {

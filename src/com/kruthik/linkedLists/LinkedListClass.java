@@ -1,4 +1,4 @@
-package com.kruthik.LinkedLists;
+package com.kruthik.linkedLists;
 
 // User-defined Data Structure
 public class LinkedListClass {

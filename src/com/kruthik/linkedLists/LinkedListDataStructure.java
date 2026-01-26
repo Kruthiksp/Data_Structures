@@ -1,4 +1,4 @@
-package com.kruthik.LinkedLists;
+package com.kruthik.linkedLists;
 
 public class LinkedListDataStructure {
     public static void main(String[] args) {

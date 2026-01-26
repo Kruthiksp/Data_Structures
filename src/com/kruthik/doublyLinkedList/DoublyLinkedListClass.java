@@ -1,4 +1,4 @@
-package com.kruthik.DoublyLinkedList;
+package com.kruthik.doublyLinkedList;
 
 public class DoublyLinkedListClass {
     NodeClass head;
