@@ -10,8 +10,8 @@
     <li>2D Array</li>
     <li>Recursion</li>
     <li>LinkedList</li>
-    <!-- <li>Stack</li>
-    <li>Queue</li>
+    <li>Stack</li>
+    <!-- <li>Queue</li>
     <li>Binary Tree</li>
     <li>Binary Search Tree</li>
     <li>Heap</li>
