@@ -11,11 +11,13 @@
     <li>Recursion</li>
     <li>LinkedList</li>
     <li>Stack</li>
-    <!-- <li>Queue</li>
+    <li>Queue</li>
     <li>Binary Tree</li>
-    <li>Binary Search Tree</li>
+    <!-- <li>Binary Search Tree</li>
     <li>Heap</li>
     <li>HashMap</li>
-    <li>Bit Manipulation</li>
-    <li>Dynamic Programming</li> -->
+    <li>Dynamic Programming</li>
+    <li>Binary Search on Answer</li>
+    <li>Backtracking</li>
+    <li>Graph</li> -->
 </ol>
