@@ -1,4 +1,4 @@
-package com.kruthik.binarTree;
+package com.kruthik.binaryTree;
 
 public class IdenticalTree {
     public boolean isIdentical(Node r1, Node r2) {

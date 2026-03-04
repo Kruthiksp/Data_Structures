@@ -1,4 +1,4 @@
-package com.kruthik.binarTree;
+package com.kruthik.binarySearchTree;
 
 public class Node {
     int data;
@@ -9,4 +9,3 @@ public class Node {
         this.data = data;
     }
 }
-

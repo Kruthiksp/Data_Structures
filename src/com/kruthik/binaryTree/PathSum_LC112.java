@@ -1,4 +1,4 @@
-package com.kruthik.binarTree;
+package com.kruthik.binaryTree;
 
 public class PathSum_LC112 {
     public boolean hasPathSum(Node root, int targetSum) {

@@ -1,4 +1,4 @@
-package com.kruthik.binarTree;
+package com.kruthik.binaryTree;
 
 public class SumOfValuesOfBinaryTree {
     static int sum = 0;

@@ -1,4 +1,4 @@
-package com.kruthik.binarTree;
+package com.kruthik.binaryTree;
 
 public class LowestCommonAncestor_GFG {
     Node lca(Node root, int n1, int n2) {

@@ -1,4 +1,4 @@
-package com.kruthik.binarTree;
+package com.kruthik.binaryTree;
 
 public class SizeOfBinaryTree {
     public static int size(Node root) {

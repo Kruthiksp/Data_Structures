@@ -1,4 +1,4 @@
-package com.kruthik.binarTree;
+package com.kruthik.binaryTree;
 
 public class LevelsOfBinaryTree {
     public static int levels(Node root) {

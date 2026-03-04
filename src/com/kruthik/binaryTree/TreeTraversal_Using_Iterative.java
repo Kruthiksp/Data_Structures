@@ -1,4 +1,4 @@
-package com.kruthik.binarTree;
+package com.kruthik.binaryTree;
 
 import java.util.ArrayList;
 import java.util.Stack;

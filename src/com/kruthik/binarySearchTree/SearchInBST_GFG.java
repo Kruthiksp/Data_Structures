@@ -1,0 +1,11 @@
+package com.kruthik.binarySearchTree;
+
+public class SearchInBST_GFG {
+    public boolean search(Node root, int key) {
+        if(root == null) return false;
+
+        if(root.data == key) return true;
+        else if(root.data > key) return search(root.left, key);
+        else return search(root.right, key);
+    }
+}

@@ -1,4 +1,4 @@
-package com.kruthik.binarTree;
+package com.kruthik.binaryTree;
 
 public class Construct_Tree_from_Inorder_and_Postorder_GFG {
     Node buildTree(int[] inorder, int[] postorder) {
