@@ -17,8 +17,8 @@
     <li>Heap</li>
     <li>HashSet</li>
     <li>HashMap</li>
-    <!-- <li>Bit Manipulationl</li>
-    <li>Dynamic Programming</li>
+    <li>Bit Manipulationl</li>
+    <!-- <li>Dynamic Programming</li>
     <li>Binary Search on Answer</li>
     <li>Backtracking</li>
     <li>Graph</li> -->
