@@ -1,4 +1,4 @@
-package com.kruthik.dynamicProgramming;
+package com.kruthik.dynamicProgramming.knapsack;
 
 public class UndounderKnapSack_GFG {
 
